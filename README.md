@@ -1,2 +1,2 @@
-# autotrader-app
-AutoTrader react uygulaması
+# AutoTrader App
+AutoTrader React Uygulaması.
