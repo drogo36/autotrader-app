@@ -1,0 +1,21 @@
+{
+  "user": {
+    "name": "Demo User",
+    "email": "demo@autotrader.com"
+  },
+  "settings": {
+    "apiKey": "",
+    "secretKey": "",
+    "testnet": true,
+    "name": "Demo User",
+    "email": "demo@autotrader.com",
+    "emailNotifications": true,
+    "tradeAlerts": true,
+    "profitLossAlerts": true,
+    "systemAlerts": false,
+    "maxDailyLoss": 500,
+    "maxPositionSize": 1000,
+    "emergencyStop": true
+  },
+  "exportDate": "2025-06-17T21:08:22.470Z"
+}
